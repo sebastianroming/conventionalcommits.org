@@ -130,3 +130,18 @@ languages:
       current: v1.0.0-beta.2
       list:
       - v1.0.0-beta.2
+
+  de:
+    weight: 2
+    languageName: "Deutsch"
+    title: Conventional Commits
+    description: Eine Spezifikation zum Hinzufügen von für Menschen und Maschinen lesbaren Bedeutungen für Commit Nachrichten
+    actions:
+    - label: Spezifikationen lesen
+      url: '#spezifikation'
+    - label: GitHub
+      url: 'https://github.com/conventional-commits/conventionalcommits.org'
+    versions:
+      current: v1.0.0-beta.2
+      list:
+      - v1.0.0-beta.2
